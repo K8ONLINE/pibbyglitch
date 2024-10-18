@@ -1,15 +1,12 @@
 body {
-    margin: 250px;
-  background-color: black;
-margin-top;: static: top:10px left:0px; }
+    margin: auto;
+  background-color: black;}
   h1 {
     color: #ff83f9;
   font-family:Arial, Helvetica, sans-serif;
-  margin:125px}
-  p1 {color: #0000f; 
-  font: helvetica type standard;
-  margin:256px}
-.img spin-img {margin-bottom:
-top: 200px;px;
-left: 0px;}
-button {background-image: }
+  position:relative; top: 60%;}
+.navigator{position:relative; top: 25%;}
+.music{size-adjust: 10%;}
+p {color:white;
+position:relative; bottom: 330px;
+left:270px;}
