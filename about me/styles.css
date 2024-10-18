@@ -1,11 +1,14 @@
-body { margin: 250px;
-  background-color: black;
-margin-top;: static: top:10px left:0px;}
+body { margin:auto; 
+  position:relative; right:100px;
+  background-color: black;}
   h1 {
     color: #ff83f9;
   font-family:Arial, Helvetica, sans-serif;
-  margin:125px}
+  margin: 100px;
+width:100%;
+height:auto;}
   p {
     color: #ff83f9;
   font-family:Arial, Helvetica, sans-serif;
-  margin: 256px;}
+  margin: 50px;}
+ img {margin:auto}
